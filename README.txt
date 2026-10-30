@@ -9,16 +9,16 @@ FILES
 - styles.css, script.js, robots.txt
 
 IMPORTANT BEFORE GO-LIVE
-1. Replace the placeholder phone number/text with verified business contact details.
+1. Business phone added throughout the site: +91 97270 45619.
 2. Verify exact business name, address, opening hours, GST details and any public claims with the owner.
 3. Replace illustrative Unsplash images with authorized real showroom, slab and project photos where possible.
 4. Connect the contact form to a secure backend/CRM. It is currently demo-only and does not send/store enquiries.
 5. Update the canonical domain, Open Graph metadata, sitemap.xml and robots.txt for the actual domain.
-6. Add a real favicon/logo and a verified Google Business Profile / map pin.
+6. Supplied logo added to all page headers and footers. Add a favicon and a verified Google Business Profile / map pin.
 7. Add LocalBusiness/Store structured data only after confirming the exact business type, address, phone, opening hours, URL and image. Do not invent ratings, reviews, pricing, inventory, years of experience or customer counts.
 8. Review privacy policy, terms and disclaimer against actual operations and applicable law.
 9. Test mobile layouts, image loading, keyboard navigation, contrast, links, form validation and Core Web Vitals.
-10. Stock images are illustrative and do NOT represent the actual business or stock.
+10. Product and interior stock images are illustrative and do NOT represent actual inventory. The supplied business logo and Mahendra Prajapati portrait are stored in assets/images; the director name and photo appear on the About Us page.
 
 SEO NOTES
 - Each HTML page has a unique title and meta description.
